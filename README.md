@@ -65,6 +65,7 @@ I care about products that feel clear, fast, human, and culturally aware.
   <img src="https://img.shields.io/badge/Supabase-0B1020?style=for-the-badge&amp;logo=supabase&amp;logoColor=3FCF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/OpenAI-0B1020?style=for-the-badge&amp;logo=openai&amp;logoColor=FFFFFF" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Vercel-0B1020?style=for-the-badge&amp;logo=vercel&amp;logoColor=FFFFFF" alt="Vercel" />
+  <img src="https://img.shields.io/badge/AWS-0B1020?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=FF9900" alt="AWS" />
   <img src="https://img.shields.io/badge/Figma-0B1020?style=for-the-badge&amp;logo=figma&amp;logoColor=F24E1E" alt="Figma" />
 </p>
 
