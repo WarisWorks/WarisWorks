@@ -1,94 +1,85 @@
+<!-- Profile artwork lives in assets/. Keep important information in text, too. -->
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Waris Ruzi — AI product builder, designer, and developer" />
+  <img src="./assets/profile-hero.svg" width="100%" alt="Waris Ruzi — designer and developer in Japan, building AI products and multilingual experiences. Code, culture, and a little curiosity." />
 </p>
 
 <p align="center">
-  <a href="https://warisruzi.com/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=safari&amp;logoColor=white" alt="Portfolio" /></a>
-  <a href="https://ai.idirak.com/"><img src="https://img.shields.io/badge/AI_Lab-312E81?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="AI Lab" /></a>
-  <a href="https://idirak.com/"><img src="https://img.shields.io/badge/Idirak-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Idirak" /></a>
-  <a href="https://x.com/warisruzi"><img src="https://img.shields.io/badge/@warisruzi-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Follow @warisruzi on X" /></a>
+  <a href="https://warisruzi.com/"><strong>Portfolio ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://ai.idirak.com/"><strong>AI Lab ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://idirak.com/"><strong>Idirak ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://x.com/warisruzi"><strong>Find me on X ↗</strong></a>
 </p>
 
-<p align="center">
-  <strong>AI product engineering · Multilingual UX · Cultural technology</strong>
-</p>
+## Good software should feel like it understands you.
 
-## Hello — I’m Waris
+I’m **Waris**, a designer and developer based in **Japan**. I build AI-powered products and multilingual experiences, with a special focus on **Uyghur-first technology**.
 
-I’m a designer and developer based in Japan, building practical AI-powered products and multilingual digital experiences. My work sits at the intersection of **engineering, product design, language, and culture**—with a special focus on thoughtful Uyghur-first experiences.
+I care about the whole journey: the idea, the interface, the code, and the small details that make a product feel human. Clear typography. Fast interactions. Language support that belongs there from day one.
 
-I care about products that feel clear, fast, human, and culturally aware.
+**Currently exploring:** useful AI interfaces, multilingual search, and playful ways to learn.
+
+<br />
+
+## A few things I’m building
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>AI products</h3>
-      <p>Useful assistants, search experiences, knowledge tools, and intelligent workflows designed around real user needs.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Multilingual platforms</h3>
-      <p>Unicode-safe, RTL-aware interfaces with careful typography and culturally relevant product decisions.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Product engineering</h3>
-      <p>Scalable web applications built with modern React, Next.js, TypeScript, APIs, and production-ready data systems.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Interface design</h3>
-      <p>Premium, minimal systems with strong hierarchy, responsive interaction, accessibility, and clear user journeys.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>01 / AI Lab</h3>
+<p><strong>A playground for useful intelligence.</strong></p>
+<p>Applied AI tools, experiments, and product ideas shaped around everyday needs.</p>
+<p><a href="https://ai.idirak.com/">Explore the lab ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>02 / Uyghur Play &amp; Learn</h3>
+<p><strong>Small games. Meaningful connections.</strong></p>
+<p>A kid-friendly world of Uyghur vocabulary, stories, culture, and interactive learning.</p>
+<p><a href="https://oyun.idirak.com/">Come play ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 / Idirak Search</h3>
+<p><strong>Discovery across languages.</strong></p>
+<p>A focused multilingual search experience, built with language and context in mind.</p>
+<p><a href="https://search.idirak.com/">Discover more ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>04 / Idirak</h3>
+<p><strong>Where code meets culture.</strong></p>
+<p>Digital products and cultural technology for meaningful everyday use.</p>
+<p><a href="https://idirak.com/">Step inside ↗</a></p>
+</td>
+</tr>
 </table>
 
-## Selected work
+## My everyday toolkit
 
-| Product | What it explores |
-| --- | --- |
-| [Uyghur Play & Learn](https://oyun.idirak.com/) | A kid-friendly Uyghur learning platform with vocabulary, stories, culture, and interactive games. |
-| [Idirak](https://idirak.com/) | Digital products and cultural technology built for meaningful everyday use. |
-| [AI Lab](https://ai.idirak.com/) | Applied AI tools, experiments, and product ideas. |
-| [Idirak Search](https://search.idirak.com/) | A focused multilingual search experience. |
+| Layer | Tools I enjoy |
+| :--- | :--- |
+| **Interfaces** | `TypeScript` · `React` · `Next.js` · `Tailwind CSS` |
+| **Intelligence & APIs** | `Python` · `FastAPI` · `Node.js` · `OpenAI` |
+| **Data & delivery** | `PostgreSQL` · `Supabase` · `Vercel` · `AWS` |
+| **Design** | `Figma` · Design systems · Prototyping |
 
-## Tools I enjoy working with
+<details>
+<summary><strong>A little more about how I work</strong></summary>
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-0B1020?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-0B1020?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0B1020?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-0B1020?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&amp;logo=python&amp;logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-0B1020?style=for-the-badge&amp;logo=fastapi&amp;logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0B1020?style=for-the-badge&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-0B1020?style=for-the-badge&amp;logo=supabase&amp;logoColor=3FCF8E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/OpenAI-0B1020?style=for-the-badge&amp;logo=openai&amp;logoColor=FFFFFF" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Vercel-0B1020?style=for-the-badge&amp;logo=vercel&amp;logoColor=FFFFFF" alt="Vercel" />
-  <img src="https://img.shields.io/badge/AWS-0B1020?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Figma-0B1020?style=for-the-badge&amp;logo=figma&amp;logoColor=F24E1E" alt="Figma" />
-</p>
+- **Language is part of the architecture.** Unicode, RTL layouts, and careful typography matter from the start.
+- **Useful comes first.** AI should make the experience clearer and the work easier.
+- **Design and engineering belong together.** The details on both sides shape how a product feels.
+- **Culture is a product requirement.** The best tools respect the people and communities using them.
 
-## What I’m focused on
+</details>
 
-- Building AI-native interfaces that remain simple and trustworthy
-- Creating stronger Uyghur and multilingual digital experiences
-- Designing reusable systems that scale from prototype to production
-- Turning cultural context into a first-class product requirement
-- Connecting thoughtful UX with reliable engineering
+<br />
 
-> **My favorite products do more than work well—they feel like they understand the people using them.**
+## Have something interesting in mind?
+
+I’m open to collaborations in **AI, multilingual technology, education, and cultural products**.
+
+[Explore my work](https://warisruzi.com/) · [Let’s connect on X](https://x.com/warisruzi)
 
 <p align="center">
-  <strong>Open to thoughtful collaborations in AI, multilingual technology, education, and cultural products.</strong>
-</p>
-
-<p align="center">
-  <a href="https://warisruzi.com/">Portfolio</a>
-  ·
-  <a href="https://ai.idirak.com/">AI Lab</a>
-  ·
-  <a href="https://search.idirak.com/">Search</a>
-  ·
-  <a href="https://x.com/warisruzi">X</a>
+  <img src="./assets/profile-footer.svg" width="100%" alt="Built with curiosity. Rooted in culture. Thoughtful technology, for the people who use it." />
 </p>

@@ -1,62 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Waris Ruzi — AI Product Builder and Designer</title>
-  <desc id="desc">A cinematic blue and violet banner for the WarisWorks GitHub profile.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Waris Ruzi — code, culture, and a little curiosity.</title>
+  <desc id="desc">Designer and developer in Japan. Building AI products and multilingual experiences. Mint and lavender orbital artwork surrounds a W monogram.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#060A14"/>
-      <stop offset="0.48" stop-color="#0D1B3D"/>
-      <stop offset="1" stop-color="#25104B"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38BDF8"/>
-      <stop offset="0.52" stop-color="#818CF8"/>
-      <stop offset="1" stop-color="#C084FC"/>
-    </linearGradient>
-    <radialGradient id="glow">
-      <stop offset="0" stop-color="#7C3AED" stop-opacity=".55"/>
-      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity=".055"/>
-    </pattern>
-    <filter id="blur">
-      <feGaussianBlur stdDeviation="30"/>
-    </filter>
-    <clipPath id="frame">
-      <rect width="1200" height="360" rx="30"/>
-    </clipPath>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101a23"/><stop offset="1" stop-color="#090e16"/></linearGradient>
+    <linearGradient id="mint"><stop stop-color="#b8fbd4"/><stop offset="1" stop-color="#77e4cf"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#55756b" stop-opacity=".28"/><stop offset="1" stop-color="#0b121b" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#b8fbd4" opacity=".075"/></pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="458" rx="24"/></clipPath>
   </defs>
-
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; }
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+    .orbit { transform-origin: 940px 218px; animation: orbit 32s linear infinite; }
+    @keyframes orbit { to { transform: rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) { .orbit { animation: none; } }
+  </style>
   <g clip-path="url(#frame)">
-    <rect width="1200" height="360" fill="url(#bg)"/>
-    <rect width="1200" height="360" fill="url(#grid)"/>
-    <circle cx="1050" cy="78" r="245" fill="url(#glow)" filter="url(#blur)"/>
-    <circle cx="98" cy="330" r="180" fill="#0284C7" fill-opacity=".15" filter="url(#blur)"/>
-
-    <path d="M785 65 C920 18 1060 48 1184 142" fill="none" stroke="url(#accent)" stroke-width="2" stroke-opacity=".45"/>
-    <path d="M820 92 C940 58 1057 81 1160 162" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-opacity=".12"/>
-    <circle cx="1054" cy="85" r="54" fill="none" stroke="#A78BFA" stroke-opacity=".35"/>
-    <circle cx="1054" cy="85" r="30" fill="none" stroke="#38BDF8" stroke-opacity=".45"/>
-    <circle cx="1054" cy="85" r="6" fill="#FFFFFF"/>
-    <circle cx="1125" cy="218" r="5" fill="#C084FC"/>
-    <circle cx="950" cy="255" r="4" fill="#38BDF8"/>
-
-    <rect x="72" y="66" width="178" height="30" rx="15" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".12"/>
-    <circle cx="91" cy="81" r="4" fill="#34D399"/>
-    <text x="105" y="86" fill="#DDE8FF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.6">BUILDING FROM JAPAN</text>
-
-    <text x="72" y="168" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="64" font-weight="760" letter-spacing="-2">Waris Ruzi</text>
-    <rect x="72" y="190" width="470" height="4" rx="2" fill="url(#accent)"/>
-    <text x="72" y="232" fill="#C7D5F5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="19" font-weight="600" letter-spacing="2.1">AI PRODUCT BUILDER · DESIGNER · DEVELOPER</text>
-    <text x="72" y="272" fill="#91A4CB" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="17" letter-spacing=".6">Creating multilingual products where code meets culture.</text>
-
-    <g transform="translate(72 304)">
-      <rect width="116" height="28" rx="14" fill="#38BDF8" fill-opacity=".12" stroke="#38BDF8" stroke-opacity=".34"/>
-      <text x="58" y="19" text-anchor="middle" fill="#BAE6FD" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="650">CODE</text>
-      <rect x="128" width="116" height="28" rx="14" fill="#818CF8" fill-opacity=".12" stroke="#818CF8" stroke-opacity=".34"/>
-      <text x="186" y="19" text-anchor="middle" fill="#C7D2FE" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="650">CULTURE</text>
-      <rect x="256" width="116" height="28" rx="14" fill="#C084FC" fill-opacity=".12" stroke="#C084FC" stroke-opacity=".34"/>
-      <text x="314" y="19" text-anchor="middle" fill="#E9D5FF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="650">AI</text>
+    <rect width="1200" height="460" fill="url(#bg)"/>
+    <rect x="700" width="500" height="460" fill="url(#dots)"/>
+    <circle cx="935" cy="218" r="275" fill="url(#halo)"/>
+    <path d="M56 47h1088" stroke="#27363e"/>
+    <circle cx="60" cy="28" r="4" fill="#b8fbd4"/>
+    <text x="76" y="33" class="mono" font-size="12" letter-spacing="2" fill="#b5c6cc">WARISWORKS / THE PERSONAL LAB</text>
+    <text x="1144" y="33" class="mono" text-anchor="end" font-size="12" fill="#95aaa9">DESIGN + ENGINEERING</text>
+    <text x="56" y="106" class="mono" font-size="14" letter-spacing="3" fill="#b8fbd4">HELLO, WORLD. I'M</text>
+    <text x="51" y="196" font-size="88" font-weight="750" letter-spacing="-5" fill="#f0f6f3">Waris Ruzi<tspan fill="#b8fbd4">.</tspan></text>
+    <text x="56" y="247" font-size="30" font-weight="500" fill="#d6e2df">Code, culture,</text>
+    <text x="56" y="285" font-size="30" font-weight="500" fill="#d6e2df">and a little curiosity.</text>
+    <text x="56" y="334" font-size="18" fill="#a8bbb9">Building AI products and multilingual experiences.</text>
+    <g fill="none" stroke="#a9cabd">
+      <circle cx="940" cy="218" r="155" opacity=".14"/>
+      <circle cx="940" cy="218" r="119" opacity=".22"/>
+      <ellipse cx="940" cy="218" rx="155" ry="54" transform="rotate(-35 940 218)" opacity=".33"/>
+      <ellipse cx="940" cy="218" rx="155" ry="54" transform="rotate(35 940 218)" opacity=".2"/>
     </g>
+    <g class="orbit">
+      <circle cx="940" cy="63" r="5" fill="#b8fbd4"/>
+      <circle cx="940" cy="373" r="4" fill="#bcb3f8"/>
+      <circle cx="821" cy="218" r="4" fill="#b8fbd4"/>
+    </g>
+    <path d="M940 147l71 71-71 71-71-71z" fill="#162a2d" stroke="#739e92" stroke-width="1.5"/>
+    <path d="M901 198l17 41 22-32 22 32 17-41" fill="none" stroke="url(#mint)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <g class="mono" font-size="12" letter-spacing="2" text-anchor="middle">
+      <rect x="1038" y="113" width="81" height="30" rx="15" fill="#15242a" stroke="#36534f"/><text x="1079" y="133" fill="#b8fbd4">CODE</text>
+      <rect x="773" y="272" width="110" height="30" rx="15" fill="#1e2035" stroke="#494766"/><text x="828" y="292" fill="#cec7ff">CULTURE</text>
+      <rect x="1033" y="298" width="62" height="30" rx="15" fill="#15242a" stroke="#36534f"/><text x="1064" y="318" fill="#b8fbd4">AI</text>
+    </g>
+    <path d="M56 382h1088" stroke="#27363e"/>
+    <text x="56" y="421" class="mono" font-size="13" letter-spacing="1" fill="#b8fbd4">BASED IN JAPAN</text>
+    <text x="370" y="421" class="mono" font-size="13" letter-spacing="1" fill="#b6c6c3">UYGHUR-FIRST. WORLD-MINDED.</text>
+    <text x="1144" y="421" text-anchor="end" class="mono" font-size="13" fill="#bcb3f8">ALWAYS BUILDING ↗</text>
   </g>
+  <rect x="1" y="1" width="1198" height="458" rx="24" fill="none" stroke="#30413f"/>
 </svg>
