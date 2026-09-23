@@ -11,7 +11,7 @@ Profile redesigned with a midnight, mint, and lavender identity, repository-host
 - Added project documentation for continuity.
 
 ## In Progress
-- Final visual review and publication verification.
+- None.
 
 ## Remaining / TODO
 - Optional: curate profile pins to highlight original active repositories.
@@ -49,9 +49,16 @@ Upgrade the GitHub profile with a distinctive visual identity and clearer presen
 - `PROJECT.md`
 - `PROGRESS.md`
 
+**Validation**
+- Parsed both SVG files successfully and verified local image references.
+- Visually reviewed the custom banner in Chrome.
+- Verified the published README on GitHub at desktop and 390 px mobile widths.
+- Both README tables fit the 308 px mobile content area without horizontal overflow.
+- Confirmed both profile images load; versioned the hero URL to refresh GitHub’s cached original artwork.
+
 **Important Notes**
 - Retained the existing biography, technology stack, and product/contact URLs.
 - No application code, workflows, package dependencies, or tests exist in this profile repository.
 
 **Next**
-- Complete visual checks and verify the live profile.
+- Curate profile pins to complement the refreshed README.

@@ -1,6 +1,6 @@
 <!-- Profile artwork lives in assets/. Keep important information in text, too. -->
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Waris Ruzi — designer and developer in Japan, building AI products and multilingual experiences. Code, culture, and a little curiosity." />
+  <img src="./assets/profile-hero.svg?v=20260923" width="100%" alt="Waris Ruzi — designer and developer in Japan, building AI products and multilingual experiences. Code, culture, and a little curiosity." />
 </p>
 
 <p align="center">
